@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You have to start somewhere!  It records the starting state of the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a temporary area to hold files I intend to commit. It's value
+should be that I can do a partial commit of files in a logical change, while leaving
+others behind that perhaps I don't want to include yet for some reason.
