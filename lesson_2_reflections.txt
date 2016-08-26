@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is a temporary area to hold files I intend to commit. It's value
 should be that I can do a partial commit of files in a logical change, while leaving
 others behind that perhaps I don't want to include yet for some reason.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only placing the files into the staging area that make sense for the change, while
+leaving other currently edited files in the working directory.
