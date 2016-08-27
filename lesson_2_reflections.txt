@@ -11,3 +11,7 @@ others behind that perhaps I don't want to include yet for some reason.
 How can you use the staging area to make sure you have one commit per logical change?
 By only placing the files into the staging area that make sense for the change, while
 leaving other currently edited files in the working directory.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I wanted to create different versions of my code while keeping a master version intact.
