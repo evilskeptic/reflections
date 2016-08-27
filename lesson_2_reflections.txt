@@ -20,3 +20,9 @@ How do the diagrams help you visualize the branch structure?
 
 They let me see what changes are where within the structure, and also easily see if
 there are any nodes not connected to a parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It makes them into a single branch, so the changes from both branches can benefit the other. The diagram
+is represented in such a way to make it visually obvious when the changes happened and what files were
+involved.
