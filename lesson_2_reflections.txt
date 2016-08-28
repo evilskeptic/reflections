@@ -26,3 +26,9 @@ What is the result of merging two branches together? Why do we represent it in t
 It makes them into a single branch, so the changes from both branches can benefit the other. The diagram
 is represented in such a way to make it visually obvious when the changes happened and what files were
 involved.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros are that when it works it does it well.  The con is that it is using text methods
+that are horribly outdated, instead of a gui more well suited for 2016.  Am going to continue the
+course as I've come this far, but my hopes are pretty low for this product, especially considering
+how often the process has bugged out even when following instructions exactly from the intros.
